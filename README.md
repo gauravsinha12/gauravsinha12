@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gaurav sinha</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://gauravsinha.vercel.app/](https://gauravsinha.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://gauravsinha.vercel.app/)
 
 - 💬 Ask me about **Python, Java, C++ , Django , Spring Boot**
 
 - 📫 How to reach me **g1ur1vsinha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_s5sNXDp-yR0UMxvX-vKBvBNmVRMtJ8C/view?usp=sharing](https://drive.google.com/file/d/1_s5sNXDp-yR0UMxvX-vKBvBNmVRMtJ8C/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1_s5sNXDp-yR0UMxvX-vKBvBNmVRMtJ8C/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
