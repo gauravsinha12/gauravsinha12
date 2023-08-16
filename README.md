@@ -7,7 +7,7 @@
 
 - 📫 How to reach me :-  **g1ur1vsinha@gmail.com**
 
-- 📄 Know about my experiences :- [My Resume](https://drive.google.com/file/d/1_s5sNXDp-yR0UMxvX-vKBvBNmVRMtJ8C/view?usp=sharing)
+- 📄 Know about my experiences :- [My Resume](https://drive.google.com/file/d/17_gaLXDhiAHPEMDOjeD237_qzVdXIljG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
