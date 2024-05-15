@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at :- [My Portfolio](https://gauravsinha.vercel.app/)
 
-- 💬 Ask me about :- **Python, Java, C++ , Django ,RUST,  Spring Boot**
+- 💬 Ask me about :- **Python, Java, C++ , Django ,REACT.JS,  Spring Boot**
 
 - 📫 How to reach me :-  **g1ur1vsinha@gmail.com**
 
