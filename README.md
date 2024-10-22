@@ -5,7 +5,7 @@
 
 - 💬 Ask me about :- **Python, Java, C++ , Django ,React.js,  Spring Boot**
 
-- 📫 How to reach me :-  **g1ur1vsinha@gmail.com**
+- 📫 How to reach me :-  **gauravsinha6261@gmail.com**
 
 - 📄 Know about my experiences :- [Resume](https://drive.google.com/file/d/1Sml6FnWP5mE0ShGx_OpE_fWCqYeeATGq/view?usp=sharing) , [Ml_Resume](https://drive.google.com/file/d/1acECw-PePlYLElIudpSkRW8Idtcnj54w/view?usp=sharing),
 
